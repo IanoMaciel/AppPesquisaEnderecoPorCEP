@@ -11,9 +11,9 @@ Este repositório apresenta uma aplicação simples criada em um curso de Web De
 ![Capturar1](https://user-images.githubusercontent.com/71051791/126836271-3c470c56-e1ea-4028-8034-240c2d676953.JPG)
 
 ### Realizando consulta
-Para este exemplo, será atribuido ao campo CEP o enderço do Teatro Amazonas localizado na cidade de Manaus - AM.
+Para este exemplo, será atribuído ao campo CEP o enderço do Teatro Amazonas localizado na cidade de Manaus - AM.
 ![Capturar2](https://user-images.githubusercontent.com/71051791/126842081-1e997992-4ddd-450e-8923-1fee232fbbb7.JPG)
-Após preenchemento do CEP e perder o faco do campo CEP, será requisitdo as informações e posteriormente atribuído nos demais campos 
+Após preenchemento do CEP e perder o foco do campo CEP, será requisitdo as informações e posteriormente atribuído nos demais campos 
 
 ## Tecnologias utilizadas
 ### Fron-end
